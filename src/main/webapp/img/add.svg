@@ -1,0 +1,20 @@
+<svg width="24" height="24" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_1">
+   <rect id="svg_2" width="24" height="24" fill="none"/>
+   <rect id="svg_3" width="24" height="24" fill="none"/>
+  </g>
+  <g transform="rotate(90 12,12.000000000000002) " stroke="null" id="svg_4">
+   <g stroke="null" id="svg_5">
+    <path stroke="null" id="svg_6" d="m19.083758,11.42l-4.04,-5.65c-0.34,-0.48 -0.89,-0.77 -1.48,-0.77l0,0c-1.49,0 -2.35,1.68 -1.49,2.89l2.93,4.11l-2.93,4.11c-0.87,1.21 0,2.89 1.49,2.89l0,0c0.59,0 1.15,-0.29 1.49,-0.77l4.04,-5.65c0.24,-0.35 0.24,-0.81 -0.01,-1.16z"/>
+    <path stroke="null" id="svg_7" d="m12.083758,11.42l-4.03,-5.65c-0.35,-0.48 -0.9,-0.77 -1.49,-0.77l0,0c-1.49,0 -2.36,1.68 -1.49,2.89l2.93,4.11l-2.93,4.11c-0.87,1.21 0,2.89 1.49,2.89l0,0c0.59,0 1.15,-0.29 1.49,-0.77l4.04,-5.65c0.24,-0.35 0.24,-0.81 -0.01,-1.16z"/>
+   </g>
+  </g>
+ </g>
+</svg>
